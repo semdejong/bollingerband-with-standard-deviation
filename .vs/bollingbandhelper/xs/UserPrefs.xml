@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{95033843-61F5-4AF8-8794-DB80BF310E95}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="bollingbandhelper/Program.cs">
+    <Files>
+      <File FileName="bollingbandhelper/Program.cs" Line="9" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="bollingbandhelper" expanded="True">
+            <Node name="bollingbandhelper" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.bollingbandhelper FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

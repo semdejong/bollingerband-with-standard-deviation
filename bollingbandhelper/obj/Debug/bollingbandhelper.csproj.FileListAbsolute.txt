@@ -1,0 +1,6 @@
+/Users/semdejong/Projects/bollingbandhelper/bollingbandhelper/bin/Debug/bollingbandhelper.exe
+/Users/semdejong/Projects/bollingbandhelper/bollingbandhelper/bin/Debug/bollingbandhelper.pdb
+/Users/semdejong/Projects/bollingbandhelper/bollingbandhelper/obj/Debug/bollingbandhelper.csprojAssemblyReference.cache
+/Users/semdejong/Projects/bollingbandhelper/bollingbandhelper/obj/Debug/bollingbandhelper.csproj.CoreCompileInputs.cache
+/Users/semdejong/Projects/bollingbandhelper/bollingbandhelper/obj/Debug/bollingbandhelper.exe
+/Users/semdejong/Projects/bollingbandhelper/bollingbandhelper/obj/Debug/bollingbandhelper.pdb
